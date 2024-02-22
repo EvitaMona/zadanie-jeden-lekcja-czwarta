@@ -1,0 +1,17 @@
+.body {
+    background-color: blue;
+}
+
+.heading {
+    color: orange;
+    font-size: 30px;
+}
+
+.description {
+    color: white;
+    font-size: 20px;
+}
+
+footer {
+    font-weight: bold;
+}
